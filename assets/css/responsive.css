@@ -87,7 +87,7 @@
 
 @media only screen and (max-width: 767px) {
 	.atf-home-area .atf_home_img2 img {
-		border-radius: 50%;
+		border-radius: 5%;
 	}
 	.navbar-navs.navbar-expend .menu-nav,
 	.navbar-navs.navbar-collaps .menu-nav{

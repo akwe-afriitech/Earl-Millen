@@ -104,7 +104,7 @@
 		//**===================Typed-word ===================**//	
 		
 			var typed = new Typed('.typed-word', {
-				strings: ["Web Developer","Softwware Developer"," Security Analyst", "UI / UX", "Wed Development Trainer"],
+				strings: ["Web Developer","Software Developer"," Security Analyst", "UI / UX", "Web Development Trainer"],
 				typeSpeed: 50,
 				backSpeed: 50,
 				backDelay: 2000,

@@ -2,7 +2,7 @@
 
 **My Field of interests**: Web development, Mobile Application Developmen, System Security, Application Testing. 
 
-<!--- **Curriculum Vitae**: [cv.pdf](https://akwe-afriitech.github.io/Earl-Millen/assets/docs/earl.pdf) -->
+ **Curriculum Vitae**: [cv.pdf](https://akwe-afriitech.github.io/Earl-Millen/assets/docs/earl.pdf) 
 
 ### Skills 🛠️
 - **Languages**: &nbsp;                          HTML,CSS, JS, Dart, MySQL
@@ -13,51 +13,37 @@
 ### Work experience 👔
 | Job Position                 | Company            | Field                        | Work Period                |
 | ---------------------------- | ------------------ | ---------------------------- | -------------------------- |
-| **Team Lead**                | **SberDevices**    | **Search**                   | **01.10.2022 — until now** |
-| Tech Lead, Product Owner     | Sber AI Сenter     | NLP, MLOps, Mentoring        | 01.05.2021 — 01.10.2022    |
-| Senior NLP Engineer          | Tinkoff AI Lab     | Virtual Assistant "Oleg"     | 01.02.2021 — 01.04.2021    |
-| Middle NLP Engineer          | MTS AI Lab         | NER with Pseudo-Labeling     | 01.05.2020 — 01.02.2021    |
-| Junior Data Scientist        | Sberbank           | ML with Tabular Data, CV     | 01.07.2018 — 01.05.2020    |
+| **software Intern**                | **Maviance PLc**    | **mobile app development **                   | **03.09.2022 - 04.11.2022** |
+| Volunteer     | GDSC     | Git, frontend dev and, Mentoring        | 01.05.2022 — 01.05.2023    |
+| software developer and trainer          | NNW Empire     | web development and Mentoring     | 01.02.2022 — 01.09.2022    |
+| Software developer          | FELJTECH        | UI/UX, web app development    | 01.06.2021 — 30.09.2021    |
+| Intern       | African Institude of Information Technology | full stack web development    | 01.06.2020 — 31.08.2020    |
 
 ### Education 🎓
 
-- [Bachelor's degree] @ University of Bamenda-National Higher Polytechnic Institude (2018 - 2022)
+- **Bachelor's degree** @ University of Bamenda-National Higher Polytechnic Institude (still pending)
 
 ### Projects 🐾
-- [MoUniverse](https://github.com/dayyass/QaNER) - A mobile application to speed up mobile transaction and generate customisable paylinks for 
-- [RLLib](https://github.com/dayyass/rllib) - Reinforcement Learning library
-- [MUSE as Service](https://github.com/dayyass/muse-as-service) - REST API for sentence embedding using Multilingual Universal Sentence Encoder
-- [PyTorch NER](https://github.com/dayyass/pytorch-ner) - pipeline for training NER models using PyTorch
-- [Text Classification Baseline](https://github.com/dayyass/text-classification-baseline) - pipeline for building text classification TF-IDF + LogReg baselines
-- [Graph-Based Clustering](https://github.com/dayyass/graph-based-clustering) - clustering using graph connected components and spanning trees
+- [MoUniverse](https://github.com/akwe-afriitech/MoUniverse) - A mobile application built with flutter to speed up mobile transaction and generate customisable paylinks to recieve payments for goods or services offered or render
+- [E-life Saver](https://github.com/akwe-afriitech/e-life-save) - A mobile app built with flutter to be use by blood donors and people in  need of blood, so people in need of blood can send a blood request whenever there is a shortage at the blood bank and any available blood donor can rush to the hospital and donate blood to save that persons life.
+- [E-Commerce App](https://github.com/akwe-afriitech/E-commerce-app) - An E-commerce app built with flutter 
+- [SMACS Africa](https://nngatech.com/smacsafrica/) - Webapp built with CMS(wp) for real estate and construction maintenance where users can find propertise for sale in their location and also get in contact with engineers and technicaians to work for them 
+- [Portfolio website](https://akwe-afriitech.github.io/Earl-Millen/) - My portfolio website about me 
+- [iStudyBucket](https://github.com/akwe-afriitech/istudybucket-frontend) - Webapp application design on figma and built with react framework for students to ask and answer study questions and also get study material 
+- [Ideal Concepts](https://github.com/akwe-afriitech/ideal-Concepts) - Home page ui  and ux for a design and printing company company 
 
-### Public talks 🗣
-- [From Model to Service: Flask + Gunicorn + Docker](https://youtu.be/onPlqEO0lN0) @ Sberloga
-- [QaNER - NER via Exractive QA](https://youtu.be/JRec8FpjhpM) @ Sberloga
-- [Git Hooks Is All You Need](https://youtu.be/92OMAtdVIAs) @ Sberloga
-- [Web-Service for Sentence Embeddings](https://youtu.be/ZayiaA84oXg) @ Sberloga
-- [How to start a career in DS](https://youtu.be/_YrX25CpJWs) @ REU Data Science Club
 
-### Certifications 📜
-- [Practical Reinforcement Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/AUVVSHZFH7XZ) @ Coursera
-- [Introduction to Deep Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/D4VMH74AJHHK) @ Coursera
-- [Bayesian Methods for Machine Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/5R62SGB3G6GF) @ Coursera
-- [Hadoop. System for processing large amounts of data](https://stepik.org/cert/166893) @ Stepik
-
-<!--- ### Conference participation 📈
-- IX International Scientific and Practical [Conference](https://it-mm.rea.ru/eng) named after A.I. Kitov "Information Technologies and Mathematical Methods in Economics and Management"
-- Deep and Machine Learning methods for document clustering and classification [tutorial](https://indico-hlit.jinr.ru/event/146/overview) in frames of The XXIII International Scientific [Conference](https://indico.jinr.ru/event/756) of Young Scientists and Specialists (AYSS-2019)  -->
 
 ### Hackathon participation 💻
-- [deNews](https://ethglobal.com/showcase/denews-djqvk) @ ETHOnline 2022
-- [Alzheimer's MRI Analysis](https://github.com/dayyass/synthetic_health_data_hackathon_2020) @ Synthetic Health Data Hackathon 2020
+- **MTN MoMo Api Hackathon** @ MTN MoMo hackathon 2022
+- **Genius Hackathon** @ building mobile apps to solve problems in finance, health, education and security.
+- **MBOA Code** @ Agriculture solutions hackathon
+-**Google Solution Challenge**
 
 ### Achievements 🏆
-- Published [10 packages](https://pypi.org/user/dayyass/) to **PyPI** with [16k+](https://pepy.tech) downloads
-- Contributor to **PyTorch**, **Scikit-Learn**, **SciPy**
-- Open Data Science **Best Contributor 2020**
+- Best in Sciences **MIA National Olympiards**
+- Winner of the  **Genius Hackathon** For **Financial solution 2022**
+- Top 10 Participant in the **MTN MoMo Hackathon**
 
-### GitHub Stats ⭐
-[![Dani El-Ayyass' github stats](https://github-readme-stats.vercel.app/api?username=dayyass&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 More information in my [LinkedIn](https://www.linkedin.com/in/dayyass/) 🚀
